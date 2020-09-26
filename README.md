@@ -7,11 +7,12 @@ The whole idea was to try to stream audio/video as text content using WebSockets
 
 ## Installation
 Use the following commands to download the project and install its dependencies.
-```git clone https://github.com/Wil2129/Video-Chat.git```
-```npm install```
+<br>```git clone https://github.com/Wil2129/Video-Chat.git```
+<br>```npm install```
+
 
 To run the project, run:
-```npm run start```
+<br>```npm run start```
 
 ## Contributing
 Please feel free to contribute to this project. I did it on a whim because the idea of sending a video stream via text-based message just occurred to me. I will gladly learn any new technique or algorithms.
